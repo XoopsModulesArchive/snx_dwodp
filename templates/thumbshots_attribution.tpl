@@ -1,0 +1,1 @@
+<p align="center"><a href="http://www.thumbshots.org" target="_blank"><img src="http://open.thumbshots.org/attribution.png" alt="Free previews by Thumbshots.org" width="88" height="31" border="0" /></a></p>

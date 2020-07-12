@@ -1,0 +1,1 @@
+<img src="http://open.thumbshots.org/image.pxf?url=[site_url]" border="0" onload="if (this.width>50) this.border=1" alt="[site_url]" />

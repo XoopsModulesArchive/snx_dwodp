@@ -1,0 +1,1 @@
+<center><i>No sites matching your query were found in the directory.  Try refining your search parameters</i></center>
